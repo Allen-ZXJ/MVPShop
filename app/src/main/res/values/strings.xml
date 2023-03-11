@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVPShop</string>
+
+    <string name="buttom_title_home">主页</string>
+    <string name="buttom_title_cart">购物车</string>
+    <string name="buttom_title_mine">我的</string>
+
+    <string name="buttom_title_kf">客服</string>
+    <string name="buttom_title_favorite">收藏</string>
+</resources>
